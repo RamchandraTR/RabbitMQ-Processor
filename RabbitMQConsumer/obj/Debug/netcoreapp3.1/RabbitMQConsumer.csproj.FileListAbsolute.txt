@@ -1,0 +1,17 @@
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.exe
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.deps.json
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.json
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.dev.json
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.AssemblyReference.cache
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfoInputs.cache
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfo.cs
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CopyComplete
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.genruntimeconfig.cache
+C:\Users\6106161\OneDrive - Thomson Reuters Incorporated\Desktop\RabbitMqDemo\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
